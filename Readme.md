@@ -56,7 +56,7 @@ expense-tracker/
 
 Installation & Setup:
 1. Clone the Repository
-   git clone https://github.com/Kumarsai1434/epense_tracker.git
+   https://github.com/Navyaah/personal_expense_tracker.git
 cd personal-expense-tracker
 2. Setup Backend
    cd backend
